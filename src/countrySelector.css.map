@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "countrySelector.scss"
+    ],
+    "names": [],
+    "file": "countrySelector.css"
+}
